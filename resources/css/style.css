@@ -1,27 +1,42 @@
 h1,
 h2,
-h3 {
+h3,
+ {
   font-family: Verdana;
+  text-align: center;
+  background-color: black;
 }
 
-h1 {
+h1
+{
   font-size: 50px;
   color: white;
-  text-align: center;
   font-weight: normal;
 }
 
-.different {
+#different
+{
   font-weight: 300;
   font-size: 42px;
+  color: white;
 }
 
-h2 {
+h2
+{
   font-size: 21px;
   color: gray;
 }
 
-h3 {
+h3
+{
   color: aquamarine;
   font-size: 16px;
+}
+
+.image,
+.image-2,
+.image-3
+{
+  background-color: black;
+  text-align: center;
 }
