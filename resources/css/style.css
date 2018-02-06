@@ -1,7 +1,12 @@
+body {
+  background-color: black;
+}
 h1,
 h2,
 h3 {
   font-family: Verdana;
+  background-color: black;
+  text-align: center;
 }
 
 h1 {
@@ -24,4 +29,10 @@ h2 {
 h3 {
   color: aquamarine;
   font-size: 16px;
+}
+
+video {
+  align-content: center;
+  display: block;
+  margin: 0 auto;
 }
